@@ -1,0 +1,4 @@
+Using RWMidi library I quickly converted the Game of Life example that comes with Processing to work with the Novation Launchpad.
+
+http://ruinwesen.com/support-files/rwmidi/documentation/RWMidi.html
+http://www.novationmusic.com/products/midi_controller/launchpad
